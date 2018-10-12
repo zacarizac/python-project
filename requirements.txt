@@ -5,3 +5,4 @@ numpy
 textblob
 tweepy
 datareader
+re
