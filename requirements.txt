@@ -1,7 +1,4 @@
-Requirements: make sure the following extensions are installed
-
-pandas
-numpy
 textblob
 tweepy
 datareader
+re
